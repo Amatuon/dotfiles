@@ -8,6 +8,7 @@ ln -sf ~/dotfiles/Omarchy/.config/omarchy/branding/screensaver.txt ~/.config/oma
 # Symlink hypr files
 ln -sf ~/dotfiles/Omarchy/hypr/.config/hypr/looknfeel.conf ~/.config/hypr/looknfeel.conf
 ln -sf ~/dotfiles/Omarchy/hypr/.config/hypr/bindings.conf ~/.config/hypr/bindings.conf
+ln -sf ~/dotfiles/Omarchy/hypr/.config/hypr/input.conf ~/.config/hypr/input.conf
 
 # Symlink aether files
 ln -sf ~/dotfiles/Omarchy/aether/theme.css ~/.config/aether/theme.css
