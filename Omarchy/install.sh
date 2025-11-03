@@ -3,6 +3,7 @@
 
 # Symlink omarchy files
 ln -sf ~/dotfiles/Omarchy/.local/share/omarchy/logo.txt ~/.local/share/omarchy/logo.txt
+ln -sf ~/dotfiles/Omarchy/.local/share/omarchy/icon.txt ~/.local/share/omarchy/icon.txt
 ln -sf ~/dotfiles/Omarchy/.config/omarchy/branding/screensaver.txt ~/.config/omarchy/branding/screensaver.txt
 
 # Symlink hypr files
