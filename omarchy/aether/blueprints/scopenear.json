@@ -1,0 +1,35 @@
+{
+  "palette": {
+    "wallpaper": "/home/mmcd/.cache/aether/wallhaven-wallpapers/wallhaven-exo29o.png",
+    "colors": [
+      "#1e1e2e",
+      "#f38ba8",
+      "#a6e3a1",
+      "#f9e2af",
+      "#89b4fa",
+      "#cba6f7",
+      "#94e2d5",
+      "#cdd6f4",
+      "#45475a",
+      "#f38ba8",
+      "#a6e3a1",
+      "#f9e2af",
+      "#89b4fa",
+      "#cba6f7",
+      "#94e2d5",
+      "#ffffff"
+    ],
+    "lightMode": false,
+    "appOverrides": {}
+  },
+  "timestamp": 1761166407274,
+  "settings": {
+    "includeNeovim": true,
+    "includeVencord": false,
+    "includeGtk": false,
+    "lightMode": false,
+    "selectedNeovimConfig": null,
+    "enableAppOverrides": false
+  },
+  "name": "Butterfly"
+}
